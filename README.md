@@ -229,9 +229,7 @@ The build package includes:
 
 ---
 
-## Author
 
-**Priya Gupta**
 
 
 ---
